@@ -1,4 +1,4 @@
-Next Steps https://cryptozombies.io
+# Next Steps https://cryptozombies.io
 
 
 Implementing functions for attack, changeName, changeDna, and the ERC721 functions transfer, ownerOf, balanceOf, etc. The implementation of these functions would be identical to all the other send transactions we covered.
